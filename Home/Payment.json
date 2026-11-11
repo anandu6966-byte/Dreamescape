@@ -1,0 +1,50 @@
+{
+  "payments": [
+    {
+      "amount": 5454,
+      "method": "GPay",
+      "id": "PFdtqeG6x9c"
+    },
+    {
+      "amount": 455,
+      "method": "GPay",
+      "id": "_NYOU6glBPE"
+    },
+    {
+      "amount": 55,
+      "method": "GPay",
+      "id": "rIfCzv8fP0I"
+    },
+    {
+      "amount": 566,
+      "method": "GPay",
+      "id": "etJT_wP-K74"
+    },
+    {
+      "amount": 567,
+      "method": "GPay",
+      "id": "hGwV2amDnjA"
+    },
+    {
+      "amount": 567,
+      "method": "GPay",
+      "id": "ssn9P83HXs0"
+    },
+    {
+      "amount": 45,
+      "method": "GPay",
+      "id": "uylK54i_iME"
+    },
+    {
+      "amount": 345,
+      "method": "Paytm",
+      "id": "p-dfEi2QXxk"
+    },
+    {
+      "amount": 565,
+      "method": "GPay",
+      "id": "2BnktiMG_a0"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

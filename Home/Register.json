@@ -1,0 +1,75 @@
+{
+  "registrations": [
+    {
+      "fname": "Anandu",
+      "lname": "Venugopal",
+      "password": "4545",
+      "age": "24",
+      "dob": "2001-10-10",
+      "proof": "4545",
+      "phone": "9074114005",
+      "id": "e4jtRdcj_8Y"
+    },
+    {
+      "fname": "ugfgf",
+      "lname": "hghg",
+      "password": "4545",
+      "age": "54",
+      "dob": "2026-09-02",
+      "proof": "665",
+      "phone": "9074114005",
+      "id": "quuS_teUf0M"
+    },
+    {
+      "fname": "Anandu",
+      "lname": "Venugopal",
+      "password": "4545",
+      "age": "32",
+      "dob": "2026-09-09",
+      "proof": "1111",
+      "phone": "9074114005",
+      "id": "2QeJOB9zBfA"
+    },
+    {
+      "fname": "Anandu",
+      "lname": "Venugopal",
+      "password": "4545",
+      "age": "32",
+      "dob": "2026-09-02",
+      "proof": "4545",
+      "phone": "9074114005",
+      "id": "IW1C_GuoCl8"
+    },
+    {
+      "fname": "Anandu",
+      "lname": "venugopal",
+      "password": "4545",
+      "age": "32",
+      "dob": "2026-09-15",
+      "proof": "3434",
+      "phone": "9074114005",
+      "id": "8oDDx7m-hEY"
+    },
+    {
+      "fname": "Anandu",
+      "lname": "Venugopal",
+      "password": "4545",
+      "age": "24",
+      "dob": "2026-09-10",
+      "proof": "23454",
+      "phone": "9074114005",
+      "id": "UZNSn3MARUY"
+    },
+    {
+      "fname": "Anandu",
+      "lname": "Venugopal",
+      "password": "4545",
+      "age": "24",
+      "dob": "2026-09-02",
+      "proof": "23455",
+      "phone": "9074114005",
+      "id": "8OxuVOvx0b8"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

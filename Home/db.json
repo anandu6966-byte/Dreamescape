@@ -1,0 +1,85 @@
+{
+  "bookings": [
+    {
+      "bookingId": "6466",
+      "customerId": "7766768",
+      "packageId": "688686",
+      "date": "2026-09-24",
+      "travellers": "3",
+      "idProof": "68686868",
+      "phone": "9074114005",
+      "id": "R62GEdrPvYQ"
+    },
+    {
+      "bookingId": "455",
+      "customerId": "566",
+      "packageId": "9999",
+      "date": "2026-09-23",
+      "travellers": "3",
+      "idProof": "56789",
+      "phone": "9074114005",
+      "id": "0bF9sZJ3mv4"
+    },
+    {
+      "bookingId": "56677",
+      "customerId": "5666",
+      "packageId": "566",
+      "date": "2026-09-24",
+      "travellers": "4",
+      "idProof": "5566",
+      "phone": "9074114005",
+      "id": "mb7OlDKQubc"
+    },
+    {
+      "bookingId": "45454",
+      "customerId": "4545",
+      "packageId": "4545",
+      "date": "2026-09-17",
+      "travellers": "5",
+      "idProof": "5656",
+      "phone": "9074114005",
+      "id": "2uN4vtpLmFk"
+    },
+    {
+      "bookingId": "65464",
+      "customerId": "65465",
+      "packageId": "7575456",
+      "date": "2026-09-18",
+      "travellers": "3",
+      "idProof": "55666",
+      "phone": "9074114005",
+      "id": "6j6bPFiqq6g"
+    },
+    {
+      "bookingId": "4343",
+      "customerId": "545454",
+      "packageId": "5456",
+      "date": "2026-10-15",
+      "travellers": "6",
+      "idProof": "4566",
+      "phone": "9074114005",
+      "id": "ppTdRLPf5-c"
+    },
+    {
+      "bookingId": "233",
+      "customerId": "2323",
+      "packageId": "1212",
+      "date": "2026-10-14",
+      "travellers": "1",
+      "idProof": "1233",
+      "phone": "9074114005",
+      "id": "j73Z__dMfUo"
+    },
+    {
+      "bookingId": "4567",
+      "customerId": "34567",
+      "packageId": "4567",
+      "date": "2026-10-15",
+      "travellers": "5",
+      "idProof": "45678",
+      "phone": "9074114005",
+      "id": "mMuTCMyyVm0"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
